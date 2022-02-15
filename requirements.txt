@@ -1,0 +1,9 @@
+flask
+numpy
+sklearn
+pandas
+pickle5
+seaborn
+warn
+matplotlib
+gunicorn==19.3.0
